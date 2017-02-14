@@ -7,8 +7,6 @@
 # However, I might improve it for my own requirements if needed.
 # Enjoy.
 
-today=`date +"%Y-%m-%d"`
-days=`dateutils.ddiff 2015-12-16 $today`
 username="" #Enter your username inside the quotes
 password="" #Enter your password inside the quotes
 
