@@ -8,3 +8,8 @@ Feel free to modify it in whatever way you want.
 # Usage
 Add your username and password in the script and just run using  
 `~$ ./vianet.sh`
+
+---
+
+# LICENSE
+Distributed under WTFPL. Do whatever you want with this script. 
